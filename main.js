@@ -42,7 +42,7 @@ class Producto {
   // Resultado de los datos procesados
   console.log(`El carrito de compras contiene los siguientes productos:`);
   console.log(carritoDeCompras);
-  console.log(`El subtotal de la compra es: ${calcularTotal()}`);
+  console.log(`El subtotal de la compra es: $${calcularTotal().toFixed(2)}`);
   console.log(`El IVA es: $${(calcularTotal() * 0.21).toFixed(2)}`);
   console.log(`El total de la compra es: $${calcularTotal().toFixed(2)}`);
   
