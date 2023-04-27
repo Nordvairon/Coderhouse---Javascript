@@ -5,7 +5,7 @@ class Producto {
     }
   }
   
-  let carritoDeCompras = []; // Inicializar una matriz vacía para almacenar productos
+  let carritoDeCompras = []; // Matriz vacía para almacenar productos
   
   // Crear una función para agregar un producto al carrito de compras
   function agregarAlCarrito() {
@@ -39,7 +39,7 @@ class Producto {
     }
   }
   
-  // Efectuar una salida, que es el resultado de los datos procesados
+  // Resultado de los datos procesados
   console.log(`El carrito de compras contiene los siguientes productos:`);
   console.log(carritoDeCompras);
   console.log(`El subtotal de la compra es: ${calcularTotal()}`);
