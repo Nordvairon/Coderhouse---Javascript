@@ -1,0 +1,8 @@
+[
+    {"id":1, "nombre":"Iphone 12",          "cantidad":1,  "precio":120000,   "stock":5,  "img": "./img/productos/iphone12.png",   "descripcion": "Un celular gama alta",     "alt":"Celular"},
+    {"id":2, "nombre":"Samsung galaxy s21", "cantidad":1,  "precio":150000,   "stock":5,  "img":"./img/productos/Samsung S21.png", "descripcion": "Un celular gama alta",     "alt":"Celular"},
+    {"id":3, "nombre":"Xiaomi mi 11 ",      "cantidad":1,  "precio":175000,   "stock":5,  "img":"./img/productos/Xiaomi Mi 11.png","descripcion":  "Un celular gama alta",    "alt":"Celular"},
+    {"id":4, "nombre":"Airpods Pro",        "cantidad":1,  "precio":300000,   "stock":5,  "img":"./img/productos/airpods.png",     "descripcion": "Accesorio / Auriculares",  "alt":"Auricular bluetooth"},
+    {"id":5, "nombre":"Galaxy Buds Pro",    "cantidad":1,  "precio": 100000,  "stock":5,  "img":"./img/productos/galaxy buds.png", "descripcion": "Accesorio / Auriculares",  "alt":"Auricular bluetooth"},
+    {"id":6, "nombre":"Apple Watch",        "cantidad":1,  "precio": 130000,  "stock":5,  "img":"./img/productos/apple watch.png", "descripcion": "Accesorio / Auriculares",  "alt":"Smarthwatch"}
+] 
